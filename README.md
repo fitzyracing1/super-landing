@@ -9,7 +9,9 @@ Gives an AI agent real system-administration powers while wrapping every action 
 The core guard protocol that makes powerful agents shippable and safe.
 
 ## Live Site
-https://fitzyracing1.github.io/Super/
+https://fitzyracing1.github.io/super-landing/
+
+Code: https://github.com/fitzyracing1/Super
 
 ## Project
 
